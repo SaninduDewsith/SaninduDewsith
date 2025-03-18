@@ -36,14 +36,12 @@
   - Cross-platform recipe management application
   - User-friendly interface for recipe browsing
   - Search and filter functionality
-  - Offline recipe storage
 
 ### 🌱 IoT & Smart Systems
 - **Smart Irrigation System with Lucy & IoT**
   - Automated irrigation control using ESP8266
   - Real-time soil moisture monitoring
   - Weather integration for optimal watering
-  - Mobile app for remote control
   - Data analytics dashboard
 
 ### 🔒 Blockchain & Security
